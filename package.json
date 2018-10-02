@@ -1,0 +1,22 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andreas Wachowski <andreas.wachowski@akra.de>",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "jest": "^23.6.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "react-redux-form": "^1.16.10",
+    "react-test-renderer": "^16.5.2",
+    "redux": "^4.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
